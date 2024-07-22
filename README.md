@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on instagram
 - 📫 How to reach me: My mail Id -> musalamadugu.yugandhar@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Iam really a pro in coding
+- ⚡ Fun fact: Iam really a pro in Programming
 
 <!---
 Yugandhar-code/Yugandhar-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
